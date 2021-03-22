@@ -1,4 +1,6 @@
-AngularJS and PHP RestFull API
+## AngularJS and PHP RestFull API
+
+Instantly play free online games, including solitaire, mahjong, hidden object, word, casino, card and puzzle games. Play on your computer, tablet or phone.
 
 
 
